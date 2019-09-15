@@ -1,4 +1,4 @@
-# Bootsrap search box like amazon
+# Bootsrap product search box like amazon
 Bootstrap search box or search panel like amazon with dropdown scroll and auto adjust dropdown text based on the selected dropdown text.
 
 # Customized CSS used to make scroll bar in dropdown list 
